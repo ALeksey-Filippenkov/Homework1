@@ -1,0 +1,16 @@
+F:\Program\VS project\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.exe
+F:\Program\VS project\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.deps.json
+F:\Program\VS project\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.runtimeconfig.json
+F:\Program\VS project\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.runtimeconfig.dev.json
+F:\Program\VS project\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.dll
+F:\Program\VS project\HomeWork1\HomeWork1\bin\Debug\net5.0\ref\HomeWork1.dll
+F:\Program\VS project\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.pdb
+F:\Program\VS project\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.csprojAssemblyReference.cache
+F:\Program\VS project\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\VS project\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.AssemblyInfoInputs.cache
+F:\Program\VS project\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.AssemblyInfo.cs
+F:\Program\VS project\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.csproj.CoreCompileInputs.cache
+F:\Program\VS project\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.dll
+F:\Program\VS project\HomeWork1\HomeWork1\obj\Debug\net5.0\ref\HomeWork1.dll
+F:\Program\VS project\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.pdb
+F:\Program\VS project\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.genruntimeconfig.cache
